@@ -43,7 +43,7 @@ function decodeToken(token, secret) {
 }
 
 function sign(payload, secret) {
-    return crypto.createHmac('sha256', secret || '488b20cab3ce67e20be9e3f73995bfb4').update(payload).digest('base64url');
+    return crypto.createHmac('sha256', secret || '488b20cab3ce67e20be9e3f73995bfb4').update(`${payload}`).digest('base64url');
 }
 
 module.exports = {
