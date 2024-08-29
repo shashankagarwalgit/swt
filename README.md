@@ -11,12 +11,10 @@ This library provides simple functions to create, validate, and decode tokens si
 
 ## Installation
 
-Clone this repository and install the necessary dependencies:
+Install using npm
 
 ```bash
-git clone https://github.com/shashankagarwalgit/swt.git
-cd swt
-npm install
+npm i @shashankagarwalme/swt
 ```
 
 ## Usage
