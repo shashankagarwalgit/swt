@@ -10,6 +10,10 @@
     "web",
     "token"
   ],
+  "repository": "https://github.com/shashankagarwalgit/swt.git",
   "author": "Shashank Agarwal",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+  "registry": "https://npm.pkg.github.com"
+}
 }
