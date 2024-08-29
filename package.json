@@ -14,6 +14,6 @@
   "author": "Shashank Agarwal",
   "license": "ISC",
   "publishConfig": {
-  "registry": "https://npm.pkg.github.com"
+  "registry": "https://registry.npmjs.org/"
 }
 }
