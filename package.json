@@ -1,6 +1,6 @@
 {
   "name": "@shashankagarwalme/swt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shashank Web Token(SWT)",
   "main": "swt.js",
   "scripts": {
