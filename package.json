@@ -1,5 +1,5 @@
 {
-  "name": "swt",
+  "name": "@shashankagarwalme/swt",
   "version": "1.0.1",
   "description": "Shashank Web Token(SWT)",
   "main": "index.js",
